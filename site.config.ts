@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '1314个人博客名称',
-  domain: 'https://actually-rooster-894.notion.site/7775ccd3770241959fe2e41fddbe307a',
+  domain: 'https://1314share.notion.site/7775ccd3770241959fe2e41fddbe307a',
   author: '1314',
 
   // open graph metadata (optional)
