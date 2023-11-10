@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7775ccd3770241959fe2e41fddbe307a',
+  rootNotionPageId: 'dc713610e19c4c86adfde574e17434e8',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '1314个人博客',
-  domain: 'https://1314share.notion.site/7775ccd3770241959fe2e41fddbe307a',
+  domain: 'https://pointy-scilla-8d0.notion.site/dc713610e19c4c86adfde574e17434e8',
   author: '1314',
 
   // open graph metadata (optional)
